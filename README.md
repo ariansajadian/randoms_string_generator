@@ -26,5 +26,5 @@ As [John Gruber] writes on the [Markdown site][df1]
 Install the dependencies 
 
 ```sh
-pip install random_string_generator
+pip install randoms_string_generator
 ```
